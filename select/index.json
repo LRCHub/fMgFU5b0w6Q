@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "友達がいる",
+  "base_artist": "カネコアヤノ",
+  "createdAt": "2026-04-02T04:47:20.898785Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "友達がいる",
+      "artist": "カネコアヤノ",
+      "has_synced": false,
+      "path": "select/pl_01_友達がいる_カネコアヤノ.txt"
+    }
+  ]
+}
